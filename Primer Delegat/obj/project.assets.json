@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Visual Projects\\Vezba Programski\\Primer Delegat\\Primer Delegat.csproj",
+      "projectUniqueName": "D:\\Programski-Jezici\\Primer Delegat\\Primer Delegat.csproj",
       "projectName": "Primer Delegat",
-      "projectPath": "D:\\.Visual Projects\\Vezba Programski\\Primer Delegat\\Primer Delegat.csproj",
+      "projectPath": "D:\\Programski-Jezici\\Primer Delegat\\Primer Delegat.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "D:\\.Visual Projects\\Vezba Programski\\Primer Delegat\\obj\\",
+      "outputPath": "D:\\Programski-Jezici\\Primer Delegat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",

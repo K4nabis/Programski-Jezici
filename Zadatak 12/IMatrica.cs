@@ -10,5 +10,6 @@ namespace Zadatak_12
     {
         double this[int i, int j] { get; }
         int Dimenzija { get; }
+
     }
 }

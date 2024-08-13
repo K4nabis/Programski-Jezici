@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Primer_Delegat
-build_property.ProjectDir = D:\.Visual Projects\Vezba Programski\Primer Delegat\
+build_property.ProjectDir = D:\Programski-Jezici\Primer Delegat\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

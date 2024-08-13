@@ -8,5 +8,8 @@ namespace Zadatak_12
 {
     internal class DijagonalaMatrica : IMatrica
     {
+        public double this[int i, int j] => throw new NotImplementedException();
+           
+        public int Dimenzija => throw new NotImplementedException();
     }
 }

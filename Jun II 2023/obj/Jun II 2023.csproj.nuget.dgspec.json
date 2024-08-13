@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Visual Projects\\Vezba Programski\\Jun II 2023\\Jun II 2023.csproj": {}
+    "D:\\Programski-Jezici\\Jun II 2023\\Jun II 2023.csproj": {}
   },
   "projects": {
-    "D:\\.Visual Projects\\Vezba Programski\\Jun II 2023\\Jun II 2023.csproj": {
+    "D:\\Programski-Jezici\\Jun II 2023\\Jun II 2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Visual Projects\\Vezba Programski\\Jun II 2023\\Jun II 2023.csproj",
+        "projectUniqueName": "D:\\Programski-Jezici\\Jun II 2023\\Jun II 2023.csproj",
         "projectName": "Jun II 2023",
-        "projectPath": "D:\\.Visual Projects\\Vezba Programski\\Jun II 2023\\Jun II 2023.csproj",
+        "projectPath": "D:\\Programski-Jezici\\Jun II 2023\\Jun II 2023.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "D:\\.Visual Projects\\Vezba Programski\\Jun II 2023\\obj\\",
+        "outputPath": "D:\\Programski-Jezici\\Jun II 2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",

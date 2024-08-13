@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Visual Projects\\Vezba Programski\\Delegati\\Delegati.csproj": {}
+    "D:\\Programski-Jezici\\Delegati\\Delegati.csproj": {}
   },
   "projects": {
-    "D:\\.Visual Projects\\Vezba Programski\\Delegati\\Delegati.csproj": {
+    "D:\\Programski-Jezici\\Delegati\\Delegati.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Visual Projects\\Vezba Programski\\Delegati\\Delegati.csproj",
+        "projectUniqueName": "D:\\Programski-Jezici\\Delegati\\Delegati.csproj",
         "projectName": "Delegati",
-        "projectPath": "D:\\.Visual Projects\\Vezba Programski\\Delegati\\Delegati.csproj",
+        "projectPath": "D:\\Programski-Jezici\\Delegati\\Delegati.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "D:\\.Visual Projects\\Vezba Programski\\Delegati\\obj\\",
+        "outputPath": "D:\\Programski-Jezici\\Delegati\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",

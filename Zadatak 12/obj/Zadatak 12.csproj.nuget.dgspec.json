@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Visual Projects\\Vezba Programski\\Zadatak 12\\Zadatak 12.csproj": {}
+    "D:\\Programski-Jezici\\Zadatak 12\\Zadatak 12.csproj": {}
   },
   "projects": {
-    "D:\\.Visual Projects\\Vezba Programski\\Zadatak 12\\Zadatak 12.csproj": {
+    "D:\\Programski-Jezici\\Zadatak 12\\Zadatak 12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Visual Projects\\Vezba Programski\\Zadatak 12\\Zadatak 12.csproj",
+        "projectUniqueName": "D:\\Programski-Jezici\\Zadatak 12\\Zadatak 12.csproj",
         "projectName": "Zadatak 12",
-        "projectPath": "D:\\.Visual Projects\\Vezba Programski\\Zadatak 12\\Zadatak 12.csproj",
+        "projectPath": "D:\\Programski-Jezici\\Zadatak 12\\Zadatak 12.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "D:\\.Visual Projects\\Vezba Programski\\Zadatak 12\\obj\\",
+        "outputPath": "D:\\Programski-Jezici\\Zadatak 12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
