@@ -1,0 +1,14 @@
+D:\.Visual Projects\Vezba Programski\Primer Delegat\bin\Debug\net8.0\Primer Delegat.exe
+D:\.Visual Projects\Vezba Programski\Primer Delegat\bin\Debug\net8.0\Primer Delegat.deps.json
+D:\.Visual Projects\Vezba Programski\Primer Delegat\bin\Debug\net8.0\Primer Delegat.runtimeconfig.json
+D:\.Visual Projects\Vezba Programski\Primer Delegat\bin\Debug\net8.0\Primer Delegat.dll
+D:\.Visual Projects\Vezba Programski\Primer Delegat\bin\Debug\net8.0\Primer Delegat.pdb
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.AssemblyInfoInputs.cache
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.AssemblyInfo.cs
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.csproj.CoreCompileInputs.cache
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.dll
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\refint\Primer Delegat.dll
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.pdb
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.genruntimeconfig.cache
+D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\ref\Primer Delegat.dll

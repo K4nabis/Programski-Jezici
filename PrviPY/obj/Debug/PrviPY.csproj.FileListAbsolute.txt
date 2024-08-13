@@ -1,0 +1,7 @@
+D:\.Visual Projects\PrviPY\PrviPY\bin\Debug\PrviPY.exe.config
+D:\.Visual Projects\PrviPY\PrviPY\bin\Debug\PrviPY.exe
+D:\.Visual Projects\PrviPY\PrviPY\bin\Debug\PrviPY.pdb
+D:\.Visual Projects\PrviPY\PrviPY\obj\Debug\PrviPY.csproj.AssemblyReference.cache
+D:\.Visual Projects\PrviPY\PrviPY\obj\Debug\PrviPY.csproj.CoreCompileInputs.cache
+D:\.Visual Projects\PrviPY\PrviPY\obj\Debug\PrviPY.exe
+D:\.Visual Projects\PrviPY\PrviPY\obj\Debug\PrviPY.pdb

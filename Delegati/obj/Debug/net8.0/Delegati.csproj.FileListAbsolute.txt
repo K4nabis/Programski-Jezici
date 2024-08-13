@@ -1,0 +1,28 @@
+D:\.Visual Projects\PrviPY\Delegati\bin\Debug\net8.0\Delegati.exe
+D:\.Visual Projects\PrviPY\Delegati\bin\Debug\net8.0\Delegati.deps.json
+D:\.Visual Projects\PrviPY\Delegati\bin\Debug\net8.0\Delegati.runtimeconfig.json
+D:\.Visual Projects\PrviPY\Delegati\bin\Debug\net8.0\Delegati.dll
+D:\.Visual Projects\PrviPY\Delegati\bin\Debug\net8.0\Delegati.pdb
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\Delegati.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\Delegati.AssemblyInfoInputs.cache
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\Delegati.AssemblyInfo.cs
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\Delegati.csproj.CoreCompileInputs.cache
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\Delegati.dll
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\refint\Delegati.dll
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\Delegati.pdb
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\Delegati.genruntimeconfig.cache
+D:\.Visual Projects\PrviPY\Delegati\obj\Debug\net8.0\ref\Delegati.dll
+D:\.Visual Projects\Vezba Programski\Delegati\bin\Debug\net8.0\Delegati.exe
+D:\.Visual Projects\Vezba Programski\Delegati\bin\Debug\net8.0\Delegati.deps.json
+D:\.Visual Projects\Vezba Programski\Delegati\bin\Debug\net8.0\Delegati.runtimeconfig.json
+D:\.Visual Projects\Vezba Programski\Delegati\bin\Debug\net8.0\Delegati.dll
+D:\.Visual Projects\Vezba Programski\Delegati\bin\Debug\net8.0\Delegati.pdb
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.AssemblyInfoInputs.cache
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.AssemblyInfo.cs
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.csproj.CoreCompileInputs.cache
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.dll
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\refint\Delegati.dll
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.pdb
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.genruntimeconfig.cache
+D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\ref\Delegati.dll
