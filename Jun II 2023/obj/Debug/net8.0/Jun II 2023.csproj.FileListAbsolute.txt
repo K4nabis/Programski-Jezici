@@ -12,3 +12,18 @@ D:\.Visual Projects\Vezba Programski\Jun II 2023\obj\Debug\net8.0\refint\Jun II 
 D:\.Visual Projects\Vezba Programski\Jun II 2023\obj\Debug\net8.0\Jun II 2023.pdb
 D:\.Visual Projects\Vezba Programski\Jun II 2023\obj\Debug\net8.0\Jun II 2023.genruntimeconfig.cache
 D:\.Visual Projects\Vezba Programski\Jun II 2023\obj\Debug\net8.0\ref\Jun II 2023.dll
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\bin\Debug\net8.0\Jun II 2023.exe
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\bin\Debug\net8.0\Jun II 2023.deps.json
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\bin\Debug\net8.0\Jun II 2023.runtimeconfig.json
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\bin\Debug\net8.0\Jun II 2023.dll
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\bin\Debug\net8.0\Jun II 2023.pdb
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\Jun II 2023.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\Jun II 2023.AssemblyInfoInputs.cache
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\Jun II 2023.AssemblyInfo.cs
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\Jun II 2023.csproj.CoreCompileInputs.cache
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\Jun II 2023.sourcelink.json
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\Jun II 2023.dll
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\refint\Jun II 2023.dll
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\Jun II 2023.pdb
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\Jun II 2023.genruntimeconfig.cache
+E:\.Visual C#\Programski-Jezici-git\Jun II 2023\obj\Debug\net8.0\ref\Jun II 2023.dll

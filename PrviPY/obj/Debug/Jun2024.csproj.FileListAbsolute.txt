@@ -5,3 +5,10 @@ D:\.Visual Projects\Vezba Programski\PrviPY\obj\Debug\Jun2024.csproj.AssemblyRef
 D:\.Visual Projects\Vezba Programski\PrviPY\obj\Debug\Jun2024.csproj.CoreCompileInputs.cache
 D:\.Visual Projects\Vezba Programski\PrviPY\obj\Debug\PrviPY.exe
 D:\.Visual Projects\Vezba Programski\PrviPY\obj\Debug\PrviPY.pdb
+E:\.Visual C#\Programski-Jezici-git\PrviPY\bin\Debug\PrviPY.exe.config
+E:\.Visual C#\Programski-Jezici-git\PrviPY\bin\Debug\PrviPY.exe
+E:\.Visual C#\Programski-Jezici-git\PrviPY\bin\Debug\PrviPY.pdb
+E:\.Visual C#\Programski-Jezici-git\PrviPY\obj\Debug\Jun2024.csproj.AssemblyReference.cache
+E:\.Visual C#\Programski-Jezici-git\PrviPY\obj\Debug\Jun2024.csproj.CoreCompileInputs.cache
+E:\.Visual C#\Programski-Jezici-git\PrviPY\obj\Debug\PrviPY.exe
+E:\.Visual C#\Programski-Jezici-git\PrviPY\obj\Debug\PrviPY.pdb

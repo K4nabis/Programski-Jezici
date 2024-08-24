@@ -26,3 +26,18 @@ D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\refint\Delegati.d
 D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.pdb
 D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\Delegati.genruntimeconfig.cache
 D:\.Visual Projects\Vezba Programski\Delegati\obj\Debug\net8.0\ref\Delegati.dll
+E:\.Visual C#\Programski-Jezici-git\Delegati\bin\Debug\net8.0\Delegati.exe
+E:\.Visual C#\Programski-Jezici-git\Delegati\bin\Debug\net8.0\Delegati.deps.json
+E:\.Visual C#\Programski-Jezici-git\Delegati\bin\Debug\net8.0\Delegati.runtimeconfig.json
+E:\.Visual C#\Programski-Jezici-git\Delegati\bin\Debug\net8.0\Delegati.dll
+E:\.Visual C#\Programski-Jezici-git\Delegati\bin\Debug\net8.0\Delegati.pdb
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\Delegati.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\Delegati.AssemblyInfoInputs.cache
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\Delegati.AssemblyInfo.cs
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\Delegati.csproj.CoreCompileInputs.cache
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\Delegati.sourcelink.json
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\Delegati.dll
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\refint\Delegati.dll
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\Delegati.pdb
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\Delegati.genruntimeconfig.cache
+E:\.Visual C#\Programski-Jezici-git\Delegati\obj\Debug\net8.0\ref\Delegati.dll

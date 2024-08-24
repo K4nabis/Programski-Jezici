@@ -12,3 +12,18 @@ D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\refint\Prim
 D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.pdb
 D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\Primer Delegat.genruntimeconfig.cache
 D:\.Visual Projects\Vezba Programski\Primer Delegat\obj\Debug\net8.0\ref\Primer Delegat.dll
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\bin\Debug\net8.0\Primer Delegat.exe
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\bin\Debug\net8.0\Primer Delegat.deps.json
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\bin\Debug\net8.0\Primer Delegat.runtimeconfig.json
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\bin\Debug\net8.0\Primer Delegat.dll
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\bin\Debug\net8.0\Primer Delegat.pdb
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\Primer Delegat.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\Primer Delegat.AssemblyInfoInputs.cache
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\Primer Delegat.AssemblyInfo.cs
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\Primer Delegat.csproj.CoreCompileInputs.cache
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\Primer Delegat.sourcelink.json
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\Primer Delegat.dll
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\refint\Primer Delegat.dll
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\Primer Delegat.pdb
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\Primer Delegat.genruntimeconfig.cache
+E:\.Visual C#\Programski-Jezici-git\Primer Delegat\obj\Debug\net8.0\ref\Primer Delegat.dll

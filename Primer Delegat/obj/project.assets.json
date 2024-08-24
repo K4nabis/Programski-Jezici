@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Home\\.nuget\\packages\\": {}
+    "C:\\Users\\marko.DESKTOP-J81VBA3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programski-Jezici\\Primer Delegat\\Primer Delegat.csproj",
+      "projectUniqueName": "E:\\.Visual C#\\Programski-Jezici-git\\Primer Delegat\\Primer Delegat.csproj",
       "projectName": "Primer Delegat",
-      "projectPath": "D:\\Programski-Jezici\\Primer Delegat\\Primer Delegat.csproj",
-      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "D:\\Programski-Jezici\\Primer Delegat\\obj\\",
+      "projectPath": "E:\\.Visual C#\\Programski-Jezici-git\\Primer Delegat\\Primer Delegat.csproj",
+      "packagesPath": "C:\\Users\\marko.DESKTOP-J81VBA3\\.nuget\\packages\\",
+      "outputPath": "E:\\.Visual C#\\Programski-Jezici-git\\Primer Delegat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marko.DESKTOP-J81VBA3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
