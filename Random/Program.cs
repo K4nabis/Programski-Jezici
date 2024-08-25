@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Reflection.Emit;
 
 namespace Random
 {
@@ -10,8 +11,12 @@ namespace Random
             int br1 = 0;
             System.Int32 br2 = 0;
 
+
+            Console.WriteLine(Klasa.fib(3));
+
         }
     }
+
     enum Dani       //Enumeracija
     {
         PONEDELJAK,
@@ -38,6 +43,14 @@ namespace Random
             //static metoda nema pristup ne static atributima
             staticBroj = 5;
             //neStaticBroj = 6; 
+        }
+
+        public static int fib(int n)
+        {
+            if (n < 2)
+                return 1;
+            else
+                return fib(n - 1) + fib(n - 2);
         }
 
         public static void Metoda1()

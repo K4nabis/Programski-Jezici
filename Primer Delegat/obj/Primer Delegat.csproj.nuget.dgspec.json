@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.Visual C#\\Programski-Jezici-git\\Primer Delegat\\Primer Delegat.csproj": {}
+    "D:\\Programski-Jezici\\Primer Delegat\\Primer Delegat.csproj": {}
   },
   "projects": {
-    "E:\\.Visual C#\\Programski-Jezici-git\\Primer Delegat\\Primer Delegat.csproj": {
+    "D:\\Programski-Jezici\\Primer Delegat\\Primer Delegat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.Visual C#\\Programski-Jezici-git\\Primer Delegat\\Primer Delegat.csproj",
+        "projectUniqueName": "D:\\Programski-Jezici\\Primer Delegat\\Primer Delegat.csproj",
         "projectName": "Primer Delegat",
-        "projectPath": "E:\\.Visual C#\\Programski-Jezici-git\\Primer Delegat\\Primer Delegat.csproj",
-        "packagesPath": "C:\\Users\\marko.DESKTOP-J81VBA3\\.nuget\\packages\\",
-        "outputPath": "E:\\.Visual C#\\Programski-Jezici-git\\Primer Delegat\\obj\\",
+        "projectPath": "D:\\Programski-Jezici\\Primer Delegat\\Primer Delegat.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "D:\\Programski-Jezici\\Primer Delegat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marko.DESKTOP-J81VBA3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

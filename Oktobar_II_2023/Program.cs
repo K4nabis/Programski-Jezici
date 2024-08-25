@@ -4,7 +4,7 @@
     {
         public static void Main()
         {
-            Krug v = new Valjak(1, 1);
+            Krug v = new Valjak(1, 1); //zove se krug const prvo pa valjak const pa ovi dole
             Console.WriteLine("Povrsina je "+ v.Povrsina);
             Console.WriteLine("Zapremina je "+ ((Valjak)v).Zapremina);
         }
@@ -21,7 +21,7 @@
         }
         public virtual float Povrsina
         {
-            get { return 3.14f * r * r; }
+            get { return 3.14f * r * r; } //Zove se ovo u main
         }
 
     }
@@ -40,7 +40,7 @@
         }
         public float Zapremina
         {
-            get { return Povrsina * h; }
+            get { return Povrsina * h; } //i ovo u main
         }
     }
 }
