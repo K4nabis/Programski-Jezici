@@ -17,7 +17,6 @@
             list[1] = "Jedan";
             list.Add("Dva");
             list[2] = "Dva";
-            list[2] = "tri";
             foreach (String s in list)
                 Console.WriteLine(s);
         }
