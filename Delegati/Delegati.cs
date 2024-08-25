@@ -10,16 +10,17 @@
 
         //delegat zahteva metode koje nemaju povratnu vrednost i bez argumenta
         public delegate void Operacijica();
-        public static void Obavesti() => System.Console.WriteLine("Delegat 1 pozvan.");
         public static void Overrided() => System.Console.WriteLine("Overrided.");
+        public static void Obavesti() => System.Console.WriteLine("Delegat 1 pozvan.");
         public static void Obavesti2() => System.Console.WriteLine("Delegat 2 pozvan.");
 
         #endregion
 
         static void Main()
         {
-            //ovde pravim instancu delegata i delegat povezujem sa metodom
+            //ovde instsanciram delegat i delegat povezujem sa metodom
             Console.WriteLine("---Delegat s 2 parametra---");
+            //na metodu ne idu zagrade Oduzmi()
             Operacija op = new Operacija(Oduzmi);
             Console.WriteLine("Oduzimanje: " + op(5, 7));
 
@@ -30,8 +31,10 @@
             #region Dodavanje i oduzimanje metoda iz delegata
 
             Console.WriteLine("\n---Dodavanje---");
-            Operacijica operacija = new Operacijica(Obavesti);
             //dodavanje metoda koje ce se izvrsiti na poziv delegata
+            Operacijica operacija = new Operacijica(Obavesti);
+            //Mogu da ih dodam jer je povratna vrednost kreiranog delegata void
+            //A Metode takodje imaju pv void
             operacija += Obavesti2;
             operacija += Obavesti;
             //pozivanje delegata - Zove se 1,2,1
@@ -43,13 +46,15 @@
             Console.WriteLine("\n---Overridovanje---");
             operacija();
             //ili ako zelim da obrisem listu
-            operacija = null; //ako se sad pozove EXCEPTION
-
+            operacija = null; //ako se sad pozove baca EXCEPTION
+                              //operacija();
             Console.WriteLine("\n---Oduzimanje---");
+            //Prvo dodam nekolko 
             operacija = Obavesti;
             operacija += Obavesti;
             operacija += Obavesti2;
             //oduzimanje metoda koje ce se izvrsiti na poziv delegata
+            
             operacija -= Obavesti;
             operacija -= Obavesti;
             operacija();
@@ -83,7 +88,7 @@
             Console.WriteLine("\nProizvod: " + proizvod(5, 5)); // Ispisuje 25
 
             Action<string> pozdrav = ime => Console.WriteLine("\nZdravo, " + ime);
-            pozdrav("Ana"); // Ispisuje "Zdravo, Ana" - sa argumentom
+            pozdrav("Ana"); // Ispisuje "Zdravo, Ana" - sa argumentom, ime je prenosni argument
 
             Action hello= () => Console.WriteLine("\nBez <> argumenta");
             hello(); //Ispisuje samo "Cao" - bez argumenta
